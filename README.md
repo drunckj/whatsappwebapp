@@ -21,3 +21,7 @@ sudo ./install.sh
 chmod +x uninstall.sh
 sudo ./uninstall,sh
 ```
+
+
+
+#### Want to buy me a coffee: https://www.paypal.me/drunkcj
