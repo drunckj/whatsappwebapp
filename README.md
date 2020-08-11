@@ -8,9 +8,9 @@ wrapped up the web app in a native linux app
 ## Installation
 #### start a terminal
 ```
-wget https://github.com/drunckj/whatsappwebapp/releases/download/v1.0/whatsappweb1.0.tar.xz
-tar -xf whatsappweb1.0.tar.xz
-cd whatsappweb1.0/
+wget https://github.com/drunckj/whatsappwebapp/releases/download/v1.1/whatsappweb-1.1.tar.xz
+tar -xf whatsappweb-1.1.tar.xz
+cd whatsappweb-1.1/
 chmod +x install.sh
 sudo ./install.sh
 ```
